@@ -1,5 +1,7 @@
 【开源】高效便捷的K5/K6对讲机写频和音频通信二合一转换头
-[微信图片_20240624101539_副本_副本.jpg](https://github.com/dodouegg/K5K6-USBLine-2-in-1/blob/main/example.jpg)
+如图：
+https://github.com/dodouegg/K5K6-USBLine-2-in-1/blob/main/example.jpg
+
 【系统组成】
 标准K头转换器：适用于K5/K6对讲机，确保兼容性和稳定性。
 4芯音频线缆：提供卓越的音频传输效果，减少信号损耗。
